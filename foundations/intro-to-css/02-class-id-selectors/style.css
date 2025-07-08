@@ -1,0 +1,16 @@
+.class_ {
+    background-color: pink;
+    color: black;
+}
+.class_.cooler {
+    font-size: 32px;
+}
+#oneID {
+    font-size: 35px;
+    color: blue;
+}
+#twoID {
+    background-color: green;
+    font-weight: 700;
+    font-size: 30px;
+}
